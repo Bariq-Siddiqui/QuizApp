@@ -1,0 +1,63 @@
+body{
+    /* background-color: rgb(255, 237, 198) !important; */
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
+    margin-top: 10% !important;
+}
+.main-page{
+    /* background-color: royalblue; */
+    background-image: linear-gradient(to left bottom, #fb99d1, #e993da, #d390e2, #b88eea, #968def, #7799f9, #51a3fe, #00adff, #00c2ff, #00d6ff, #00e8f8, #29f8ea);
+
+    color: rgb(90, 33, 90);
+    margin: 0 auto;
+    border: 4px solid rgb(90, 33, 90);
+    width: 400px !important;
+    border-radius: 10%;
+    margin-bottom: 10%;
+}
+input{
+    width: 300px;
+    border: none;
+    color: rgb(90, 33, 90);
+    /* text-shadow: 1px 1px red; */
+    font-weight: bold;
+    /* background-image: linear-gradient(to left bottom, #fb99d1, #e993da, #d390e2, #b88eea, #968def, #7799f9, #51a3fe, #00adff, #00c2ff, #00d6ff, #00e8f8, #29f8ea); */
+    background-color: rgb(137, 248, 248);
+    border-bottom: 4px solid rgb(90, 33, 90);
+}
+.mar{
+    margin-left: 10%;
+    margin-bottom: 6%;
+}
+.font{
+    text-shadow: 1px 1px red;
+    margin-left: 5%;
+    font-size: 1em;
+    font-weight: bolder;
+}
+button{
+    text-align: center;
+    color: rgb(90, 33, 90);
+    border-color: rgb(90, 33, 90);
+    font-weight: bolder;
+    padding: 3%;
+    text-shadow: 1px 1px red;
+
+    background-color: rgb(137, 248, 248);
+    border-radius: 40% !important;
+}
+button:hover{
+    color: rgb(137, 248, 248);
+    border-color: rgb(137, 248, 248);
+    background-color: rgb(90, 33, 90);
+
+}
+.btncntr{
+    text-align: center;
+}
+h4{
+    font-size: 2em !important;
+    margin-top: 20px !important;
+    text-align: center;
+    text-shadow: 2px 2px red;
+}
